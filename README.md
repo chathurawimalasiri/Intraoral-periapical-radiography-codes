@@ -1,0 +1,1 @@
+# Intraoral-periapical-radiography-codes
