@@ -55,4 +55,3 @@ where:
 - x = x_pixel / image_width
 - y = y_pixel / image_height
 
-Each tooth instance must have exactly 4 keypoints with their visibility flags.
