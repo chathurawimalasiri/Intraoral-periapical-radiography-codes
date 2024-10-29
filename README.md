@@ -1,6 +1,6 @@
 # Intraoral-periapical-radiography-codes
 
-This repository contains various modules for detecting and analyzing dental structures using PyTorch. It includes implementations for bone line detection, keypoint detection, teeth detection, and tooth detection. Each module is designed to work independently and can be integrated into a larger pipeline for dental image analysis.
+This repository contains various modules for detecting and analyzing dental structures using PyTorch. It includes implementations for bone level detection, keypoint detection, teeth detection, and tooth detection. Each module is designed to work independently and can be integrated into a larger pipeline for dental image analysis.
 
 ## Directory Structure
 
