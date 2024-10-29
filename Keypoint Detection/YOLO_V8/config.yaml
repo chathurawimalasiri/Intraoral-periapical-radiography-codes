@@ -1,0 +1,11 @@
+train: data/images/train
+val: data/images/val 
+
+# Keypoints
+kpt_shape: [6, 3]  # [number of keypoints, number of dim]
+
+
+# Classes
+names:
+  0: cej
+  1: apex
