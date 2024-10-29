@@ -7,5 +7,4 @@ kpt_shape: [6, 3]  # [number of keypoints, number of dim]
 
 # Classes
 names:
-  0: cej
-  1: apex
+  0: tooth
